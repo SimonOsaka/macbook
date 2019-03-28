@@ -27,4 +27,5 @@
 
 
 > android will move the SDK directory and AVD out, the steps are similar
+
 **translate by google**
