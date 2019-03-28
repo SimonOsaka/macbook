@@ -13,6 +13,6 @@
 
 > android将SDK目录和AVD迁移出即可，步骤如上类似
 
-==看不懂不是一个合格的程序员==
+**看不懂不是一个合格的程序员**
 
 ![image-20190328111716177](https://github.com/SimonOsaka/macbook/blob/master/WeChata819079a89708d2205b5f1dc47cc388a.png?raw=true)
