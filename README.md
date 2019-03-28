@@ -20,7 +20,7 @@
 1. Execute the command `cd /`
 2. Execute the command `du -sh *` to find out which directories have large files.
 3. After you find it, you can delete it and delete it. If you can't delete it, use the command `ln -s` to move large files out of system space.
-4. With iOS, the largest file is the emulator file, the directory `/Library/Developer/CoreSimulator/Profiles/Runtimes`, and the directory `mv -r` to other spaces (eg: `/Volumn/dev/ios/ Runtimes`), the movement time depends on the file size
+4. With iOS, the largest file is the emulator file, the directory `/Library/Developer/CoreSimulator/Profiles/Runtimes`, and the directory `mv -r` to other spaces (eg: `/Volumn/dev/ios/Runtimes`), the movement time depends on the file size
 5. At this point `/Library/Developer/CoreSimulator/Profiles` is empty, use the command `ln -s /Volumn/dev/ios/Runtimes ./` to generate a link file.
 6. Start the xcode emulator and verify that it is normal.
 
