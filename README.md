@@ -12,3 +12,19 @@
 
 
 > android将SDK目录和AVD迁移出即可，步骤如上类似
+
+# macbook development tools take up too much space
+
+> The core idea is to transfer files to other spaces and then link to the original directory
+
+1. Execute the command `cd /`
+2. Execute the command `du -sh *` to find out which directories have large files.
+3. After you find it, you can delete it and delete it. If you can't delete it, use the command `ln -s` to move large files out of system space.
+4. With iOS, the largest file is the emulator file, the directory `/Library/Developer/CoreSimulator/Profiles/Runtimes`, and the directory `mv -r` to other spaces (eg: `/Volumn/dev/ios/ Runtimes`), the movement time depends on the file size
+5. At this point `/Library/Developer/CoreSimulator/Profiles` is empty, use the command `ls -s /Volumn/dev/ios/Runtimes ./` to generate a link file.
+6. Start the xcode emulator and verify that it is normal.
+
+
+
+> android will move the SDK directory and AVD out, the steps are similar
+**translate by google**
