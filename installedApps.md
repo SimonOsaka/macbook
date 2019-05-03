@@ -16,6 +16,7 @@
 ## 数据库管理
 
 - **Sequel Pro**，mysql客户端，免费不维护
+- **ChromeMyAdmin**，mysql客户端，chrome插件，免费。[github](https://github.com/yoichiro/chrome_mysql_admin)
 - **P3X Redis UI**，redis客户端，免费
 
 ## 代码开发
