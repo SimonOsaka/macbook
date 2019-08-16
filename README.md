@@ -4,6 +4,7 @@
 2. mac系统抓包工具
 3. mac系统空间大小优化
 4. mac系统使用Fork基本功能（git图形客户端）
+5. CentOS7安装、使用gitlab
 
 谢谢!!!
 thanks
