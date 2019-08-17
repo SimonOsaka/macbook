@@ -1,4 +1,5 @@
-##安装和使用
+## 安装和使用
+
 1. 安装Centos7
 2. 下载gitlab，清华大学开源镜像源https://mirrors.tuna.tsinghua.edu.cn/gitlab-ee/yum/el7/
 3. 安装gitlab
