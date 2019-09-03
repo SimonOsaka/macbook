@@ -15,7 +15,7 @@ SSH密钥：id_rsa.pub（选择 协议：SSH 展示，至于SSH密钥如何创�
 > 如何创建私有Token？
 * 登录gitlab.com
 * 用户设置
-* Personal Access Tokens
+* Access Tokens（访问令牌）
 * Add a personal access token
 * 勾选需要的项目（可以全部勾选）
 * 点击Create personal access token按钮
