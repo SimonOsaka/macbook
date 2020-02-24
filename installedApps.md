@@ -2,9 +2,10 @@
 
 ## 文本工具
 
-- **TextMate**，文本编辑，功能比较强大，免费
-- **Typora**，markdown文本编辑，非常强大，免费可升级
-- **WPS**，word、excel、ppt等文档编辑，免费使用，有增值收费功能
+- ~~**TextMate**，文本编辑，功能比较强大，免费~~。替代软件：**CotEditor**
+- **Typora**，MarkDown文本编辑，非常强大，免费可升级
+- ~~**WPS**，word、excel、ppt等文档编辑，免费使用，有增值收费功能~~
+- **LibreOffice**，word、excel、ppt等文档编辑，免费使用
 - **DesktopNaotu**，一个封装了百度思维导图的编辑工具，免费
 - **SwitchHosts!**，系统hosts编辑工具，方便开发使用切换hosts，免费
 - **CotEditor**，文本编辑，支持多种语法显示，免费
@@ -39,4 +40,12 @@
 - **Postman**，请求调试工具，免费强悍
 
 ## 快捷工具
+
 - **Go2Shell**，在Finder（访达）中，快捷进入对应终端的路径，免费
+
+## 其它
+
+* **Just Focus**，番茄工作法工具，保持专注
+* **OmniDiskSweeper**，磁盘清理工具，方便查找对应目录下的垃圾文件
+* **sdr-cleaner_mac**，kindle电子书清理工具
+
